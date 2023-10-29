@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "173532511803",
+    "project_id": "propertypulse-1b4c3",
+    "storage_bucket": "propertypulse-1b4c3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:173532511803:android:c39d4f1f2e5bb28af7a61e",
+        "android_client_info": {
+          "package_name": "com.propertypulse.propertypulse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "173532511803-q0g9tn1lc15842tpiijrk3g2q7eat77g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAz3AdGc0N8o-13iR_Q_MVn47Ly1-AaKys"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "173532511803-q0g9tn1lc15842tpiijrk3g2q7eat77g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
